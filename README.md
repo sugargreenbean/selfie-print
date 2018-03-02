@@ -22,3 +22,6 @@ Install face_recognition
 ![](/static/vectorselfie.svg "SVG Selfie")
 
 # Step 5: SVG => STL
+![](/static/stl.jpg "STL in Autodesk Fusion 360")
+
+![](/static/stlrotate.jpg "Rotate STL in Autodesk Fusion 360")
