@@ -13,7 +13,7 @@ Install face_recognition
 ![](/static/selfie.jpg "Input Selfie, Format JPG")
 
 # Step 2: Recognize face, create bounding box, and crop
-![](/static/croppedselfie.jpg "Cropped Selfie")
+![](/static/cropselfie.jpg "Cropped Selfie")
 
 # Step 3: Find edges, find and draw contours
 ![](/static/outlinedselfie.jpg "Outlined Selfie")

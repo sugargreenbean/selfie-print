@@ -20,4 +20,4 @@ for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodi
     crop_img = pil_image.crop(PIL_box)
 
 # You can also save a copy of the new image to disk if you want by uncommenting this line
-crop_img.save("static/croppedselfie.jpg")
+crop_img.save("static/cropselfie.jpg")
