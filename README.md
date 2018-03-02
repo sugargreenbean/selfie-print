@@ -17,3 +17,8 @@ Install face_recognition
 
 # Step 3: Find edges, find and draw contours
 ![](/static/outlinedselfie.jpg "Outlined Selfie")
+
+# Step 4: JPG => PNG => PNM => SVG Selfie
+![](/static/vectorselfie.svg "SVG Selfie")
+
+# Step 5: SVG => STL
