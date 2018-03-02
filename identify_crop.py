@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw
 # and drawing a box around each person that was identified.
 
 # Load an image
-img = face_recognition.load_image_file("selfie_face1.png")
+img = face_recognition.load_image_file("static/selfie.jpg")
 
 # Find all the faces and face encodings in the unknown image
 face_locations = face_recognition.face_locations(img)
@@ -20,4 +20,4 @@ for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodi
     crop_img = pil_image.crop(PIL_box)
 
 # You can also save a copy of the new image to disk if you want by uncommenting this line
-crop_img.save("croppedselfie.jpg")
+crop_img.save("static/croppedselfie.jpg")

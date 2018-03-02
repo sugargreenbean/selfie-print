@@ -16,3 +16,4 @@ Install face_recognition
 ![](/static/croppedselfie.jpg "Cropped Selfie")
 
 # Step 3: Find edges, find and draw contours
+![](/static/outlinedselfie.jpg "Outlined Selfie")
