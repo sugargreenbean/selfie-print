@@ -1,5 +1,6 @@
 # selfie-print
 3D Print the outline contours from a selfie
+TODO: Clean up code, take in command line arguments instead of hard code, full requirements listed, test on 3D printer
 
 # Requirements
 
